@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's an 8 input 8 output routing of signal through 2 AND gates and 2 OR gates that can be switched to look at seven segment display.
 
 ## How to test
 
-Explain how to use your project
+Testing can be done without clock, switch 8 input pins on the board, the output pins should be connected to the display, play around. 
 
 ## External hardware
 
